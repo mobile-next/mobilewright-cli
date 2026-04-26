@@ -1,0 +1,14 @@
+{
+	"name": "mobilewright-cli",
+	"version": "0.0.1",
+	"author": "Mobile Next",
+	"description": "CLI for mobilewright mobile device automation",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/mobile-next/mobilewright-cli.git"
+	},
+	"license": "Apache-2.0",
+	"bin": {
+		"mobilewright": "index.js"
+	}
+}
